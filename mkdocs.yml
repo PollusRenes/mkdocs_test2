@@ -1,0 +1,7 @@
+site_name: Test page documentation
+nav:
+    - Home: index.md
+    - Preprocessing: prepro_test.md
+    - Predict full pipeline: predict_full_pipeline.md
+theme: readthedocs
+repo_url: "https://git.intranet.rws.nl/digitale-participatie/dp-scheduler"
